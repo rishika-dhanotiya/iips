@@ -9,7 +9,7 @@
  body
  { 
   background-colour:black;
-  Colour:bbbb;
+  Colour:#fff;
   text-align:centre;
   }
   </style>
