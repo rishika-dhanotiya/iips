@@ -6,10 +6,10 @@
   <h1> Hello World! </h1>
  </body>
  <style>
- Body
+ body
  { 
   background-colour:black;
-  Colour:blue;
+  Colour:bbbb;
   text-align:centre;
   }
   </style>
