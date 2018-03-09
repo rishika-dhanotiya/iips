@@ -2,16 +2,18 @@
    <head>
        <title> First website </title>
      <style type="text/css">
- body h1
+ .one
  { 
   background-color:cyan;
-  Color:black;
+  color:black;
   text-align:center;
   }
   </style>
    </head> 
  <body> 
+  <div class="one">
   <h1> Hello World! </h1>
+  </div>
  </body>
 
   </html>
